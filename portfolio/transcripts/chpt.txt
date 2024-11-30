@@ -1,0 +1,196 @@
+Good afternoon, and thank you for joining us on today's conference call to discuss ChargePoint's second-quarter fiscal 2025 earnings results. This call is being webcast and can be accessed on the Investors section of our website at investors.chargepoint.com. With me on today's call are Rick Wilmer, our Chief Executive Officer; and Mansi Khetani, our Chief Financial Officer.
+This afternoon, we issued our press release announcing results for the quarter ended July 31, 2024, which can be found on our website. We'd like to remind you that during the conference call, management will be making forward-looking statements, including our outlook for our third quarter of fiscal 2025. These forward-looking statements involve risks and uncertainties, many of which are beyond our control and could cause actual results to differ materially from our expectations. These forward-looking statements apply as of today, and we undertake no obligation to update these statements after the call. For a more detailed description of certain factors that could cause actual results to differ, please refer to our Form 10-Q filed with the SEC on June 6, 2024, and our earnings release posted today on our website and filed with the SEC on Form 8-K.
+Also, please note that we use certain non-GAAP financial measures on this call. We reconcile to GAAP in our earnings release and for certain historical periods in the investor presentation posted on the Investors section of our website. And finally, we'll be posting the transcript of this call to our Investor Relations website under the Quarterly Results section.
+And with that, I'll turn it over to Rick.
+
+Richard Wilmer
+
+Hello, everyone, and welcome to the ChargePoint second-quarter fiscal 2025 earnings call. Today, I will provide business and market update, walk through key financial results for the quarter, and share the progress we have made across the four areas of focus. I will then give a chronological overview of our plan.
+I will begin with some news. To improve our operational efficiency and right-size our business for market conditions, we have reduced our non-GAAP operating expense by an estimated $38 million on an annualized basis. We are reducing our headcount by approximately 15% and trimming non-personnel expenses in all areas of the company with the majority of reductions in sales and marketing.
+This is an offensive move. These reductions will enable us to move faster by streamlining operations. For example, we are flattening the sales and marketing organization, increasing speed and focus and maximizing resources directly related to revenue generation. We have done this successfully in the past cutting almost $90 million of annualized non-GAAP OpEx from a high point of $89 million in Q2 of last year to $66 million in Q2 of this year, streamlining our resources while accelerating our product road map.
+All these changes enhance our core go-to-market and innovation capabilities to keep us dominant when the market returns. We are seeing green shoots already. Sales of passenger EVs have settled into a stable, predictable growth path, a clear sign of sustainable adoption.
+In Q2, OEMs slashed US lease prices to clear the way for 2025 models. These aggressive price cuts triggered a surge with sales jumping 23% over Q1 and climbing 11% year over year, putting many drivers behind the wheel of an electric vehicle for the first time. When the 2025 models hit the market in the coming months, boasting superior specs and broader selection, EV momentum is only going to accelerate.
+J.D. Power's latest data says that 24% of shoppers now are very likely to go electric for their next vehicle. Plug-in hybrid sales were up 59% in the first half of the year, underscoring the critical role of charging infrastructure, which is a huge win for ChargePoint.
+Transitioning to the second quarter, we delivered as promised. Q2 revenue was $109 million within our stated guidance range. Non-GAAP gross margins continued to improve for the third consecutive quarter coming in at 26% for Q2. This is the highest our gross margin has been in nearly three years, and we expect continued improvement as we transition manufacturing to lower-cost locations.
+What kept us from the high side of Q2 guidance was fleet for a number of large deals pushed due to external factors, including delayed permitting, construction, and switchgear delivery. However, we do expect improvement in this area as we are on pace to double our fleet opportunities this year.
+ChargePoint remains a platform of choice for all types of customers to build their businesses, including auto OEMs. Recent customer wins include our work with Porsche. We are building the Porsche Charging Services owner app on ChargePoint's platform. Our successful partnership with the Hyundai Motor Company has expanded from its namesake to the Genesis brand. They join our roster of more than a dozen auto OEMs to have selected ChargePoint as the platform of choice to build their charging businesses.
+In municipal transit, we now partner with Daimler Buses, who will integrate our software and telematics directly into Mercedes Benz-and-et cetera branded buses. This many vehicle manufacturers choosing ChargePoint is a testament to our software platform leadership. A particular bright spot is municipal transit fleets, but the OEMs and the fleet operators of these vehicles are customers building our business at multiple points in the ecosystem.
+Lastly, here on few non-financial metrics of note. Our managed port count continues to grow now at approximately 315,000. DC port growth was nearly 10% for the quarter, up to nearly 30,000. With roaming, we offer more than 1.1 million place to charge worldwide, up more than 10% in the last quarter thanks to great partnership work. Driver growth is critical to our growth, and we now have 1.2 million quarterly active users, up 20% from our 1 million milestone late last year. We now count of 76% of the Fortune 50 companies as customers.
+Now let me turn to our strategic cornerstones, which are our open modular software platform, our innovative approach to hardware development, and our commitment to world-class driver experiences and operational excellence.
+In software, ChargePoint is at the forefront of EV charging innovation. We recently partnered with LG a leader in technology to bring their hardware onto our charging platform. This partnership aims to expand our reach into smart home solutions, solar integration, and battery storage, areas where LG excels.
+By working together, we will not only strengthen our technology but also boost sales from both companies submitting ChargePoint as a key player in the growing EV market. In hardware, this August we introduced Omni Port, a game-changing connector solution that works with both NAC S and CCS charging ports.
+Essential for millions of EVs that need a CCS port and the increasing number switching over to NAC S, Omni Port is designed for simplicity. It automatically selects the right connector for your car through our app or lets you choose on-screen when paying by card. Available both AC and DC chargers, Omni Port developed in collaboration with our co-development partners will begin shipping later this year. It ends the connector confusion for all who choose charge points, making Omni Port the go-to choice for station owners.
+In Q2, we launched Europe's first payment terminal to meet the latest OCPI industry standards and comply with the recently instated EU regulations. This terminal leverages an open software architecture enabling it to work with over 50 mix of charging hardware.
+Both our co-development partners, WNC and AcBel are actively working on products that we expect will launch next year. Supporting the second phase of our strategic plan, exciting is the only word I can use to describe these future innovations.
+Driver experience remains central to our strategy. We're focused on making the charging experience as smooth as possible for drivers. We have recently deployed AI technology to quickly diagnose and fix station issues. If the driver reports a hardware problem with our app, AI analyzes images to identify the issue, often without needing a site visit. This approach reduces downtime and ensures our stations are reliable, solving one of the biggest challenges in our industry.
+Touching on the last area of strategic focus, operational excellence continues to deliver consistent and impactful improvements for ChargePoint. Proof points can be found in the Q2 results, such as our gross margin which delivered a third straight quarter of improvement. The margin growth has been consistent and healthy, thanks to our relentless focus on operational excellence with the adjustments to the business bearing fruit across operations, R&D, and product.
+We tie all these pillars into our three-year plan. Phase 1, wrapping up by January 31, 2025, is all about laying the foundation. We're finalizing our leadership team, revising our product road map, rightsizing, and ensuring operational excellence. We are planning to hire a CRO with the search nearly complete, and we will be fully prepared to scale.
+In fiscal 2026, we shift to focusing on aggressive growth, driven by the launch of next-gen software and hardware. Success here means steadily improving our adjusted EBITDA each quarter with refinements along the way. We anticipate becoming adjusted EBITDA positive during the next fiscal year.
+In fiscal 2027, we're focused on maximizing the benefits of our operational excellence and an innovative product portfolio. The result, significant cash flow. The plan is designed for scalable growth and long-term profitability. When the market conditions improve, we will be ready to scale. And despite market conditions, we will continue to improve in the interim. We remain the leader in EV charging.
+Last, but certainly not least, I would like to offer my thanks to our employees, both current and former, that helped us to get where we're at today. Without them, neither ChargePoint nor our industry would be poised for the future success we expect.
+Thank you for your time, and I will now hand over the call to our CFO, Mansi.
+
+Mansi Khetani
+
+Thanks, Rick. As a reminder, the numbers I will cover today are non-GAAP. So please see our earnings release where we reconcile our non-GAAP results to GAAP.
+Revenue for the quarter was $109 million, consistent with our guidance range of $108 million to $118 million. This was 1% higher sequentially and 28% lower year on year due to lower hardware revenue. Network charging systems at $64 million accounted for 59% of second-quarter revenue. This was down 2% sequentially and down 44% year on year.
+Subscription revenue at $36 million was 33% of total revenue, up 8% sequentially and up 21% year on year. Other revenue at $8 million was 8% of total revenue, flat sequentially and up 39% year on year.
+Turning to verticals. We report verticals from a billings perspective. Second-quarter billings percentages were commercial, 72%; fleet, 14%; residential, 10%; and other, 4%. Commercial benefited from increased Navy-related shipments of our Express Plus DC fast charging products. Fleet saw continued pushout of large deals due to construction delays.
+As a reminder, this is a delayed business that we will be able to capture in future quarters. Our highly rated home products continued to be a bestseller even though Q2 saw a seasonal dip in billings. From geographic perspective, North America made up 80% of second-quarter revenue and Europe was at 20%, consistent with prior quarters.
+Turning to gross margins, non-GAAP gross margins for second quarter was 26%, up sequentially from 24% in Q1. Gross margin was up 23 percentage points as compared to Q2 last year, a quarter that was impacted by the inventory impairment charge. The sequential improvement was largely due to improved hardware margins resulting from ongoing reduction in replacement part costs lowering warranty expenses and improved subscription margins resulting from continued optimization of support costs as well as a larger mix of higher-margin subscription revenue with an overall revenue.
+Non-GAAP operating expenses for Q2 were $66 million, a decrease of 25% from $89 million in Q2 last year and flat sequentially. Non-GAAP adjusted EBITDA loss for the second quarter was $34 million, a continued improvement as compared to a loss of $36 million in Q1 and a loss of $81 million in Q2 of last year, which included the inventory impairment charge.
+Stock-based compensation in the second quarter was $19 million, down from $22 million in the first quarter and [down] from $35 million year on year. In prior years, the second quarter has shown a step-up in stock-based comp due to an annual refresh of employee grants. This quarter's net decrease represents the impact of prior restructuring events.
+Inventory balance increased slightly in the quarter as expected. Our inventory is primarily made up of finished goods and products that we are actively selling. We now expect this to decrease next year as we sell through the finished goods on hand. This will release a significant amount of working capital and free up (technical difficulty)
+Looking at cash, we ended the quarter with $244 million, significantly better than our internal plan due to continued focus on cash management. Our $150 million revolving credit facility remains undrawn. We have no debt maturities until 2028, and we have existing capacity on our ATM.
+Turning to guidance, for the third quarter of fiscal 2025, we expect revenue to be $85 million to $95 million. Given current industry headwinds, we are being prudent in our guidance. While Q2 revenue was down 28% compared to prior year, Q3 is expected to be 18% lower at the midpoint of our guidance range as compared to Q3 of last year. Looking ahead, we expect Q2 to be the bottom of the trough in terms of year-over-year growth, barring seasonality.
+Though we don't typically guide on operating expenses, given the reorganization announced today, we wanted to help reset everyone to a new level for the remainder of this year. With an annualized reduction of approximately $38 million of non-GAAP operating expenses, we expect non-GAAP operating expenses to be in the low $60 million in Q3 and to reduce further in Q4 when we will see the full-quarter impact of the reductions.
+About 50% of the reductions are in sales and marketing, with the remainder split between R&D and G&A. We are streamlining functions and becoming more efficient across the company. We are focusing on leveraging the channel, eliminating redundancies with fewer people touching every deal while increasing the mix of quota-bearing reps. We are committed to be adjusted EBITDA positive. The fourth-quarter target previously laid out was dependent on modest revenue growth in a better macro backdrop.
+Despite the tough external environment, the steps we have taken to improve operational efficiencies will enable us to continue on the path to profitability by reducing our adjusted EBITDA loss sequentially, except for seasonally impacted quarters as we reach adjusted EBITDA positive during fiscal year 2026.
+In summary, we believe Q2 was the [bottom] for revenue growth and EBITDA loss, and we have guided prudently to Q3. We continue to invest in all the right areas of the business. And operationally, we put ourselves in a position to execute better and faster as the macro turns.
+With that, I will turn the call back to the operator for questions.
+
+Question and Answer Session
+Operator
+
+Thank you. And we will now begin the question-and-answer session. (Operator Instructions)
+Colin Rusch, Oppenheimer.
+
+Colin Rusch
+
+Thanks so much, guys, and appreciate the incremental detail you're offering here. Could you talk a little bit about the target revenue level to reach that EBITDA breakeven and how you see the existing inventory working off and your ability to reduce working capital along the way towards that breakeven level?
+
+Mansi Khetani
+
+Yeah. Hi, Colin, I'll take that question. So I'll start with the second part, which is the inventory level. So based on our guide for Q3, based on the macro conditions that we were expecting to be a lot better in the second half, which we're clearly not seeing now, we believe that inventory levels will stay high for the rest of the year, basically around the same as we are right now. This is kind of the peak, but it should -- I don't see it coming down this year. I believe that we should see some inventory balance coming down around Q1, Q2 -- around middle of next year as we sell through the inventory on hand.
+On the second part of your question, which was related to the revenue level needed for adjusted EBITDA breakeven, which we've now guided or targeting to get to next year, so a few thoughts here. So this year, as we mentioned, was about focusing on improving efficiency and operational excellence. And next year, we're focusing on returning to revenue growth.
+So we've made significant changes to our cost structure, as you saw today, and we will continue to look for efficiencies to continue to bring OpEx down. That's one part. On the margins, we expect margin improvements to be realized next year as we start seeing the benefit of Asia manufacturing and improved subscription margins and as inventory will come down around the middle of next year.
+Now that said, we obviously need to see a moderate amount of revenue growth next year, which we think could be possible from a number of things, right? First, the deals pushing out from this year will materialize next year, and in many cases, they're even expanding. Second, we see increase in opportunities, some of which are pretty large on the fleet side -- again, something that Rick had mentioned -- which typically take longer to close.
+And the third would be we are seeing signs of gradual improvement in the overall macro, where we're seeing some green shoots. And overall, subscription revenue will also continue to grow due to our larger installed base. So based on these, we are targeting to see breakeven sometime during next year, but the exact timing of it will depend on actual revenue growth.
+
+Colin Rusch
+
+Okay, thanks so much. I'll take a follow-up offline. But while I have you, on the technology side, obviously, there's an awful lot happening in terms of incremental improvement on batteries, move toward higher voltage and higher wattage on the chargers. Can you talk a little bit about key areas of investment around the development? You mentioned AI and your ability to optimize routes and a variety of other things, but how should we be thinking about the kind of one or two key priorities for you guys from a technology investment perspective?
+
+Richard Wilmer
+
+Yeah. Hi, Colin. This is Rick. Good to talk to you. We've got two major areas of focus: simply put, software and hardware. As we announced a couple of months ago, we hired a new Chief Development Officer for software, and he's really now coming up to speed and starting to refine our go-forward road map for software. And I really expect a lot of exciting innovation in that area.
+And then on the hardware side, as we mentioned in the prepared remarks, we continue to work with our co-development partners, WNC and AcBel. And as I again said in the prepared remarks, we've got some really exciting new hardware products coming out in the future. I can't wait to get those in the market. So those are the two big areas of focus for us.
+
+Operator
+
+Stephen Gengaro, Stifel.
+
+Stephen Gengaro
+
+Thanks. Good afternoon, everybody. I guess two for me. But what I'd start with is, Rick, you were pretty -- you had some optimism around some green shoots in your prepared remarks. And I'm just curious when you sort of -- when you think about what you're seeing in the market right now and you think about kind of your expectations on the EBITDA side next year, when do you think we start to see kind of a revenue inflection point based on some of the positives you're seeing in the market right now?
+
+Richard Wilmer
+
+Hard to predict. Again, the green shoots, I think, are very specific. And one is we've seen a number of current customers significantly expand their deployment plans by -- in some cases, in order of magnitude. In other cases, specifically in fleet, which we've talked about, we've seen the pipeline and the opportunities that are coming our way in fleet expand very significantly, doubled over last year. So that, again, feels like a pretty strong green shoot.
+Third, we're seeing a trend now where we've got a number of deals. This is by far more than one that were lost on an RFP 6 months, 12 months ago, where the competition has not been successful executing on their commitments and those deals have now come back to us. So those are good examples of the green shoots we're seeing.
+I guess the fourth one would be, we continue to see the dislocation in workplace between the correlation of EV sales and charger adoption. We've had specific examples of large workplace customers, for example, talking about very aggressive growth in the employees at their workplaces that are subscribing to their EV charging programs, and it appears to be growing faster. Again, it's indicated through our utilization data specifically in workplace that also looks like a green shoot. So we are seeing some positive signs in these areas.
+
+Stephen Gengaro
+
+Great. Thank you. And then the other question was on the gross margin side. I think you mentioned -- Mansi, you mentioned the Asia manufacturing on the product side, but then also better subscription margins. What are a couple of -- is there a way to think about or to quantify the impact that could have on the gross margins that -- even if we assume just kind of modest revenue growth? What the manufacturing side -- how that helps the gross margin on the products and where should subscription margins get to in the next four to six quarters?
+
+Mansi Khetani
+
+Yeah. So specifically from the Asia manufacturing side, there are significant benefits to the hardware margins. We're not able to quantify exactly, because we will be selling through existing inventory, which is at different levels for different products.
+And so we'll be introducing the Asia manufacturing product for the same, different level, different times. So there is a blend. So I would think that we would see a gradual improvement in gross margin through each of the quarters next year as we start leading through the inventory that we currently have.
+And on the subscription side, you've seen us improved subscription margins pretty nicely over the last few quarters. This quarter (technical difficulty) on a non-GAAP basis were above 50%. So we're very excited about that. Most of that is coming from improvements in our support costs, which we have been able to get to by outsourcing to India. And most of our software team is now -- our support team, sorry, is now based out of our India offices. And as we continue to see economies of scale, the top line on the subscription side increasing with costs remaining relatively flat, that should improve margins as well.
+
+Richard Wilmer
+
+The other comment I'll add to that is innovation continues to play a role in this as well. The AI technology we recently released -- we call this picture to resolution -- has been having a surprising, very quick impact on station repair costs that are under warranty. This reduces the need to do multiple truck rolls -- one, to go diagnose a problem and a second to go repair problem. We've been very pleased with the early results. And innovation like that continues to drive down cost of operations around the services side.
+
+Operator
+
+Bill Peterson, JPMorgan.
+
+Bill Peterson
+
+Hi. Good afternoon and thanks for taking the questions and the details thus far on the call. Wanted to double click on the third-quarter guidance. Can you provide some additional context on the quarter-on-quarter decline? How much of this is related to competitive dynamics or pricing units, product mix, maybe policy uncertainty in the US and Europe?
+You also talked about pushouts. I think you even talked about that last quarter on the order of eight digits. Is that just further pushouts? Or is this something new? And maybe other things like related to product changeover or maybe focus on software, anything to help us understand the quarter-on-quarter and year-on-year decline?
+
+Richard Wilmer
+
+Yeah, Bill, let me make a couple of comments, and then I'll hand it over to Mansi to add to it. The one thing I'll tell you on the guide for this quarter is that we've really made a significant change to our sales and marketing organization that was part of this restructuring we announced today. We have flattened that organization increased the ratio of sellers to non-quota-carrying people.
+As we mentioned, we're expecting to close our CRO search here shortly. So with this much disruption in the go-to-market organization, we are cautious about Q3, and that was one of the reasons we gave a more conservative guide.
+I'll let Mansi add some more color from a financial perspective.
+
+Mansi Khetani
+
+Yeah. And just generally, as I've mentioned before, our guidance methodology does take into consideration the pushout of deals, the large deals. We've seen it happen many times before. So we do take it into consideration. However, this quarter, we saw a higher magnitude of deals getting pushed out because of the uncertainty in the macro. There are multiple reasons: delayed permitting, extended construction timelines or just delayed buying decisions.
+So we saw fleet revenue come in lower than we had expected. And obviously, we're factoring in all of this information and knowledge that we've gained from Q2 into our Q3 guidance, which we believe is prudent given the uncertainty in the market. But I would like to point out all of this is about timing of deals, meaning deals getting pushed out, it's not the size or the quantity of deals.
+
+Bill Peterson
+
+Okay. Thanks for that. I wanted to kind of also ask about margins, but on the equipment side, obviously, you're improving margins. Some of this is related to mix. But how should we think about -- now you're one quarter on -- about the targets you have when the new charges from Asia are really sold in volume next year? Is there a way you can kind of help quantify the margin uplift for both sort of Level 2 and DC fast for these products?
+
+Richard Wilmer
+
+Yeah. I think it's going to be fairly significant, just the cost reduction we have on the existing product portfolio. But the other thing that will begin to contribute next year and then in full force in fiscal '27 are new product introductions.
+And when I get the question, Rick, what's a good charger? It's a very simple answer. It's very reliable, very durable and low cost, and we are focused on improvements on all of those areas with our next-gen products. And those, again -- we'll start to see the beginning of that impact next year and then really in full force in fiscal '27.
+
+Operator
+
+Steven Fox, Fox Advisors.
+
+Steven Fox
+
+Hi. A couple of questions, if I could. Just to understand the backdrop in which you guys think you're now operating. So first of all, in terms of any kind of revenue recovery, it seems a lot of it is hinging on fleet, but that's only 14% of billings today. Like can you give us a perspective on how big fleet can get to over the next couple of years?
+And then secondly, when you say that EVs have sort of stabilized at predictable growth rates, is there any kind of sense for what that growth rate you think will be over the next couple of years (technical difficulty) hit all these objectives? Thanks.
+
+Mansi Khetani
+
+Yeah, I can take the first part, which is where we expect fleet business to go. It's definitely going to be a pretty significant portion of our overall revenue. And don't know the exact timing, but it could -- we expect it to be about a third over a period of time. We're seeing that based on the number of opportunities that are in the system right now.
+Rick alluded to this earlier, we're already seeing twice the number of opportunities that we were seeing last year. These just take a little bit longer to close. So the business is there. The vehicles are coming. And so it will be a pretty significant portion of our overall revenue.
+
+Richard Wilmer
+
+In terms of passenger vehicles, again, I think we're starting to see positive signs from the market, mixed in with concerns from the auto OEMs as they evaluate their transition to full BEV and how they intersperse plug-in hybrids in the mix. I think it varies from auto OEM to auto OEM.
+But as we mentioned in the prepared remarks, we've seen lease prices and pricing go down to clear out this model year and prepare for the next model year. The other thing that I believe, particularly is that improved selection and reduced cost of a vehicle and hopefully, with reduced interest rates and the affordability of car loans will all be a positive contribution to passenger EV adoption.
+I think the J.D. Power statistic we mentioned is pretty meaningful, where 24% of car buyers are now very likely to consider an EV for their next vehicle. So again, we see those positive pieces of news mixed in with other news from auto OEMs where they're evaluating their transition to full BEV.
+
+Operator
+
+Mark Delaney, Goldman Sachs.
+
+Mark Delaney
+
+Yes. Good afternoon. Thank you very much for taking my questions. First, hoping you could provide an update on customers looking to source charging hardware for multiple providers in North America, and to what extent you're seeing that influence revenue this fiscal year? And could you speak about that both as a potential headwind to your hardware revenue but also as an opportunity to sell more software revenue?
+
+Richard Wilmer
+
+Yeah, that's a good question. I think we're in the early stages of this, but it's clearly going to happen. I think in North America, you've seen an indication from the largest of the large customers to want a multisource hardware. That's largely been an intent so far as opposed to actual action.
+But one thing I will tell you is that our investments in our support organization, all the innovation we've done around network uptime has really created some differentiation for us. And we're seeing some of those customers, while they may express an intent to multisource, still gravitate towards our solution just because of the reliability we've been able to provide in their networks.
+In Europe, it's different where the market is much further ahead. In Europe, what we're seeing is a lot of brownfield opportunities now, which really drive software. So we've got multiple examples of customers that have a large installed base of non-ChargePoint hardware. They want to standardize on a software platform to manage that entire infrastructure of both our existing hardware and new. And in those cases, we're obviously selling software without hardware for the installed brownfield and then having the opportunity to also sell new hardware as they expand their networks.
+
+Mark Delaney
+
+That's helpful, Rick. My other question was around utilization rates. Last quarter, the company mentioned that utilization rates were rising with the continued growth in the number of EVs on the road as well as the lower shipments the company in the second half of this fiscal year. I would think those utilization rates are rising further. Maybe you can give more color around where utilization rates stand? And is there any specific level you think would trigger additional charging investments from customers? Thank you.
+
+Richard Wilmer
+
+Yeah, they're still continuing to increase. And it's now, at least -- again, back to the green shoots starting to pull through some demand. Again, I've had specific customer conversations where they have told me that their employees can't find a place to charge at work, and they're starting to, again, invest in expanding their network. So that number goes up, and it now looks like it's hit a point where at least it's beginning to start to pull through demand for expansion opportunities with our -- especially our existing workplace customers.
+The other trend we're beginning to see is in hospitality, where it looks to me like some of the larger brands are starting to get serious about a brand standard for their entire chain as opposed to letting their franchise owners do what they want to do with charging at their individual hotels. So again, I think utilization pressure is starting to show some green shoots of pull-through demand for expansion business. Again, with some, I think, maturity in the hospitality market, that can pull through some demand as well.
+
+Operator
+
+(Operator Instructions)
+Chris Dendrinos, RBC Capital Markets.
+
+Chris Dendrinos
+
+Yeah. Good evening and thank you. I apologize; I'm sitting in an airport. So hopefully, no announcements come in. But just one for me. You mentioned competition and you saw, I guess, maybe one of your competitors unable to deliver and then the customers coming back to you.
+I guess maybe can you just expand on the competitive landscape right now? I'm curious how it's evolved over the past year, if you've seen competitors exit the market. Obviously, we've seen Tesla change some things up. But any kind of color, I guess, maybe across home, fleet, and general commercial, how that's kind of evolved. Thanks.
+
+Richard Wilmer
+
+Yeah. Hi, Chris. Good to hear your voice. It hasn't changed a lot in terms of the level of competition we're facing. The factor I mentioned earlier where we're seeing deals come back to us that we had lost on RFP, that's more than one example. There are a number of examples where that has happened, and they are fairly significant opportunities in all cases.
+By vertical, I think you're seeing -- companies come and go in all three areas, whether it's home, workplace or commercial or fleet. But again, the overall level of competition appears to be fairly consistent but some of the names are changing.
+
+Operator
+
+Ladies and gentlemen, this concludes our question-and-answer session as well as today's conference call. We thank you for your participation, and you may now disconnect.

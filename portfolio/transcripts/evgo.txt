@@ -1,0 +1,319 @@
+hank you for standing by. My name is Janine, and I will be your lead operator for today's call. At this time, I would like to welcome everyone to the EVgo Q3 2024 Earnings Call. [Operator Instructions] I'd now like to turn the call over to Heather Davis, Vice President of Investor Relations. Please go ahead.
+
+Heather Davis
+Good morning, and welcome to EVgo's Third Quarter 2024 Earnings Call. My name is Heather Davis, and I am the Vice President of Investor Relations at EVgo.
+
+Joining me on today's call are Badar Khan, EVgo's Chief Executive Officer; and Paul Dobson, EVgo's Chief Financial Officer.
+
+Our EVP of Finance and Accounting, Stephanie Lee, will join us for the question-and-answer portion of the call. Today, we will be discussing EVgo's third quarter financial results and our updated outlook for 2024, followed by a Q&A session. Today's call is being webcast and can be accessed on the Investors section of our website at investors.evgo.com. The call will be archived and available there, along with the company's earnings release and investor presentation after the conclusion of this call.
+
+During the call, management will be making forward-looking statements that are subject to risks and uncertainties, including expectations about future performance. Factors that could cause actual results to differ materially from our expectations are detailed in our SEC filings, including in the Risk Factors section of our most recent annual report on Form 10-K and quarterly report on Form 10-Q. The company's SEC filings are available on the Investors section of our website. These forward-looking statements apply as of today, and we undertake no obligation to update these statements after the call. Also, please note that we will be referring to certain non-GAAP financial measures on the call. Information about these non-GAAP measures, including a reconciliation to the corresponding GAAP measures can be found in the earnings material available on the Investors section of our website. With that, I'll turn the call over to Badar Khan, EVgo's, CEO.
+
+Badar Khan
+Good morning, everyone, and thank you for joining us today. I want to take a moment to welcome Paul Dobson. Paul joined as our CFO at the beginning of October after a fulsome search. I've enjoyed partnering with him over the last 6 weeks at EVgo, and I know investors and analysts alike will appreciate his knowledge, strategic perspective and stewardship of capital. I also want to address the outcome of the elections last week. In summary, we see little to no impact on our business relative to the illustrative targets that we previously communicated of $200 million in adjusted EBITDA in 3 to 5 years' time.
+
+Our largest states outside California in terms of throughput and some of the fastest growing states of material size remain Texas, Florida and Arizona. We now have operational stores in 40 states, all of which are seeing strong growth in throughput, which suggests to us that EV adoption is occurring throughout the United States. The current administration has had 2 primary programs to provide funding for charging infrastructure, the $5 billion NEVI program focused on highways, funded by the Bipartisan IIJA and the 30C tax credit from the IRA. Of the NEVI funds deployed to-date, the majority of these funds have been deployed in states that supported President-elect Trump.
+
+On the IRA, as has been widely reported, red states have been major beneficiaries of the investments coming out of the IRA more broadly. 30C is a technology neutral tax credit supporting a range of alternative fuel vehicle refueling properties, including electric vehicles, hydrogen, natural gas and biofuels and has historically enjoyed bipartisan support in Congress. The cost of the 30C tax credit is quite small and is estimated to represent between 0.1% and 0.2% of the total cost of the IRA energy provisions. Therefore, we believe it is unlikely 30C will be a priority issue for the incoming administration. Either way, we are focused on building a business that is not reliant on federal incentives. Federal incentives include the 30C and NEVI represent approximately 10% of our full year 2024 gross CapEx. The next generation charging architecture that we're co-developing with Delta Electronics that we announced in October, and we've discussed in prior earnings calls is targeting at least a 30% reduction in gross CapEx per store.
+
+Finally, the EV market in the U.S. is at a tipping point moving from early adopters to the mass market, driven by the introduction of more affordable vehicles. Therefore, any reduction in the size or availability of EV incentives for new or used buyers are likely mitigated by the fact that the EVs themselves are becoming more affordable.
+
+As you all know, after more than a year of joint effort, we were thrilled to have announced last month a conditional commitment for a loan guarantee of up to $1.05 billion from the U.S. Department of Energy Loan Programs Office under their Title 17 Clean Energy Financing Program. If finalized, this low cost financing will enable EVgo to accelerate our fast charging store deployment across the United States, bringing critical public charging infrastructure to more EV drivers.
+
+Specifically, drivers living in multifamily housing and others who rely on public charging stand to benefit the most from this build out, which in turn should accelerate the adoption of electric vehicles and reduce emissions from transportation.
+
+We expect to build approximately 7,500 high power charging stores across 30 states over the next 5 years, which translates to an average of 1,500 stores per year, although it will take a little time to get to that run rate.
+
+So by the end of the 5 year period, we will be more than double our current rate of store growth with the DOE loan. Over 40% of these new stores are expected to be in marginalized areas that have been overburdened by environmental impacts, aligned with the administration's Justice40 Initiative.
+
+Given that over 50% of the stores we're deploying in 2024 are in rural or low-income communities eligible for 30C funding, I expect no change in the unit economics and growth in daily throughput per stall we previously shared, other than benefiting from even larger scale.
+
+Following receiving this conditional commitment, we're now focused on fulfilling the conditions necessary to close the loan. We do not expect a lengthy process to close the loan.
+
+As we've said before, the company will not need to raise public equity.
+
+Additionally, this loan is not financing a single large mega site that may have lengthy environmental or permitting issues. A potential accelerated build out bolstered by DOE financing would allow us to increase our current $200 million adjusted EBITDA target in 3 to 5 years, because of a much higher growth rate and increased leverage of fixed costs over a higher number of stores. We anticipate hosting a webinar update, if we're successful in closing the loan, where I envision EVgo sharing further details about the loan, an updated build schedule, unit economics and a long-term profitability target. This is a major strategic milestone towards our goal of providing the company with ongoing financing that eventually will more than double our annual rate of store growth, does not dilute existing shareholders and lowers our cost of capital.
+
+Let's look at some key operating highlights from this past quarter. The business model of owning and operating a DC fast charging network is proving to be the leader in the charging industry.
+
+Our results speak for themselves. We achieved another record quarter of revenues of $68 million and throughput for the energy dispensed in our network more than doubled year-over-year for the seventh consecutive quarter. There is a clear path to profitability and achieving our goal of adjusted EBITDA breakeven in 2025. Charging network revenue nearly doubled. We grew operational stores by 34% and they're on track to add over 800 new owned and operated stores this year. And we opened an EVgo station in our 40th State. Customer accounts increased nearly 60% and we now have over 1.2 million EVgo customer accounts. Adjusted EBITDA loss improved demonstrating the operating leverage in gross margin and adjusted G&A.
+
+Given our strong financial and operational performance and continued strength in our charging network revenues, we are raising the midpoint of guidance for both revenue and adjusted EBITDA for 2024. There are many exciting new EV models for drivers to choose from in the U.S, including the Chevy Blazer EV and the Chevy Silverado EV. And sales of non-Tesla EVs continue to outpace Tesla sales in the quarter, while both segments grew compared to the prior year. Non-Tesla sales were up 18% year-over-year and make up the majority of throughput on EVgo's network today. Uber recently shared that drivers on its network in the U.S, Canada and Europe are adopting EVs 5x faster than the average driver. And Uber Green, their electric and hybrid ride option is available in over 200 cities globally.
+
+Our partnerships with rideshare companies are really important because when rideshare drivers switch to electric, they're going to be charging at DCFC stations to get back on the road as quickly as possible. The growth in new vehicle sales drives ever higher electric vehicles on the road with a growth rate that has and will continue to exceed the growth in supply of DC fast charging, benefiting owner operators of DC fast charging networks like EVgo. In 2020, there was one public fast charging store for roughly every 60 EVs in operation.
+
+As the growth in EV VIO has exceeded the growth in the public fast charging network, this ratio was just under 90 at the end of last year and expected to grow to nearly 180 EVs to DC fast charging stalls by 2030. This assumes the build out of over 135,000 stores over the next 6 years, which itself seems aggressive given the current pace of deployments from all charging providers would have to triple to reach the 2030 estimates. Compared to other countries where EV adoption is further in the maturity curve, you see much lower ratios. Globally, the average is 30 and China was 17 at the end of 2023. Even if you did believe the charging sector was able to triple the number of deployments over the rest of the decade, you'd need to see the forecast for EV VIO to be around 40% lower than the 32 million number before the ratio falls below where we are today. That the charging industry were unable to grow the pace of deployments at all, VIO in 2030 would need to be around only 9 million vehicles before the ratio is less than today, which implies about a 40% reduction in the absolute annual growth of EVs than we are currently experiencing. In other words, if the charging industry continues to build at the pace it is today, the annual growth in EV VIO would have to be less than 40% of what it currently is before we face any pressure on utilization levels we're seeing today.
+
+We are clearly already seeing the benefit of this supply demand dynamic through rising utilization rates on our owned and operated network and that trend is set to continue for the foreseeable future in practically any conceivable scenario. Rideshare electrification, more affordable vehicles attracting more customers without at-home charging and thus reliant on public charging, autonomous vehicles, and cable standardization that we've discussed at length in the past are trends that benefit owner-operator networks on top of this core supply-demand imbalance.
+
+Let's now turn to progress on our 4 key priorities in 2024; improving the customer experience, operating in CapEx efficiencies, capturing and retaining high-value customers, and securing financing to get to free cash flow breakeven.
+
+As always, improving the customer experience remains our #1 priority, and we have great news to report this quarter. Customers want a charger to be available when they pull up to an EVgo station, and we are deploying larger sites, where our standard configuration is now 6 to 8 stalls per site. At the end of Q3, 18% of our sites have 6 stalls or more. With our deployments during the third quarter, 45% of EVgo stalls are our high-power 350-kilowatt chargers, compared to 29% a year ago. Autocharge+ continues to gain traction. 21% of our sessions are initiated by the seamless plug-and-charge experience. In September, we began auto enrollment with all OEMs that have Autocharge+ enabled, and by further simplifying the sign-up process, we are seeing great momentum with our customers.
+
+Our customer success metric, or One & Done increased 5 percentage points this quarter versus last year with 95% of sessions resulting in a successful charge on the first try. In September, we announced that we had agreed to another amendment to our long-standing partnership with GM to build what we're calling flagship sites that take the customer experience to the next level. These sites will feature up to 20 or more stalls and many of the amenities today's EV drivers want, fast, convenient, reliable stalls with our 350-kilowatt chargers, pull-through access, canopies, lighting and security cameras. Flagships are planned in metro areas coast-to-coast in states such as Arizona, California, Florida, Georgia, Michigan, New York and Texas. Like other EVgo stations, flagship sites will be near a diverse set of amenities, creating critical charging hubs to serve the expanding number of EVs on the roads. This amendment reflects both of our company's focus on enhancing the customer experience, as well as our commitment to our partnership with each other. We've also made great progress on driving efficiencies, both in the short-term and long-term this quarter. I've previously spoken about the next generation of charging equipment that EVgo is planning. In early October, we announced we signed a memorandum of understanding with Delta Electronics to co-develop state-of-the-art 400-kilowatt fast chargers, bringing together EVgo's extensive understanding of customer pain points from serving over 1 million customers, with Delta's global leadership in power electronics. This new charging architecture is focused on improving the customer experience, while also reducing CapEx by approximately 30%.
+
+We expect to deploy this architecture in the second half of 2026.
+
+For our current charging equipment, we've delivered a 6% improvement in gross CapEx for our 2024 builds compared to the original $160,000 we estimated at the beginning of the year.
+
+The first sites built with our pre-fabricated skids are operational and yield saving in build costs and construction timelines.
+
+We expect around 40% of our 2025 deployments will utilize prefabricated skids. On operating expenses, we've reduced our sustaining G&A per store by 15% year-to-date.
+
+We also continue to make great progress on our growth priority. 56% of EVgo's throughput is coming from rideshare, OEM charging credit and subscription accounts in Q3. This provides EVgo with a relatively predictable baseload level of demand on our network.
+
+New customer accounts, in the third quarter, totaled over 147,000, a record number and grew 39% compared to the third quarter of last year. We're driving customer acquisition through a variety of paid and organic sales teams, which is turbo charging our growth in retail throughput. And our dynamic pricing pilot that I've talked about in prior calls has now been rolled out to 20% of our network. We'll continue to iterate on our pricing models in the future as we gain insights into driver behavior and incentives. And on financing, as previously mentioned, EVgo announced we received a conditional commitment from the DOE, LPO for a loan guarantee of up to $1.05 billion to build approximately 7,500 stalls over 5 years.
+
+We are working closely with the DOE, and if approved, we expect to be able to share further details on the loan after loan closing. EVgo completed the sale of our 30C income tax credits for our 2023 vintage stalls in the third quarter. We believe we were one of the few companies able to transact before the tax filing deadline. Gross proceeds from the sale were $11 million.
+
+Finally, we continue to evaluate additional non-dilutive financing opportunities that would help fund our growth further beyond the potential DOE loan. I'd like to now introduce you to Paul Dobson, EVgo's CFO, and Paul will cover our strong financial performance in the third quarter and outlook for the remainder of 2024.
+
+Paul Dobson
+Thank you, Badar. EVgo continues its strong momentum and delivered yet another solid quarter, exhibiting the eighth sequential quarter of double-digit charging revenue growth and the seventh consecutive quarter of triple-digit year-over-year throughput growth. Revenue in the third quarter was $67.5 million, which represents 92% year-over-year increase. This growth was primarily driven by increased charging network and eXtend revenues. Total charging network revenues of $43.1 million grew from $21.8 million in the third quarter of 2023, exhibiting a 98% year-over-year increase, with retail, commercial, and OEM charging revenue, each individually at least doubling over the prior year period. eXtend revenues of $21.9 million increased from $10.5 million in the prior year, delivering growth of 109%. We added 270 new operational stalls in Q3, including eXtend, a record number of stalls added in the quarter for EVgo. Total stalls in operation were approximately 3,680 at the end of September 2024, including 290 EVgo eXtend stalls, increasing 34% from the end of September 2023.
+
+During the third quarter of 2024, EVgo added over 147,000 new customer accounts. EVgo ended the quarter with more than 1.2 million customer accounts, an impressive 57% increase versus the end of September 2023.
+
+During the third quarter of 2024, network throughput more than doubled from last year to 78 gigawatt hours. EVgo's network throughput growth continues to outpace EV VIO growth. And as Badar mentioned earlier, with EV VIO expected to increase faster than the supply of DC fast chargers, we anticipate demand and utilization on the EVgo network will continue to increase. In the third quarter, network utilization increased to 22%, up from 14% a year ago. Unpacking this a bit more, 59% of our stalls had utilization greater than 15%, 47% of our stalls had utilization greater than 20%, and 28% of our stalls had utilization greater than 30%.
+
+One of the key drivers of the unit economics we previously illustrated is the average daily throughput per stall, which measures how much electricity each charger is dispensing and is calculated by taking the time-based utilization percentage times the charge rate times 24 hours. Average daily throughput per stall was 254 kilowatt hours per day, an increase of 64% when compared to Q3 2023. Performance of the entire network is moving to the right. In the top 15%, average daily throughput per stall is now 582 kilowatt hours per day, demonstrating that our target of 450 kilowatt hours in 3 to 5 years is achievable. The profitability that our core owned and operated network delivers is improving, which is demonstrated through the growth of our charging network margin. EVgo continues to make strides in improving the profitability of our own and operated charging network through efficiencies and leverage. In Q3, our charging network margin was 32.9%, improving from 28.6% in Q3 2023.
+
+As a reminder, there is seasonality in our charging network margin, as summer electricity tariffs are higher than winter tariffs.
+
+As I mentioned earlier, revenue grew 92% in the third quarter of 2024 to a record $67.5 million. Adjusted gross profit was $18 million in the third quarter of 2024, up from $9.3 million in the third quarter of 2023. Adjusted gross margin was 26.6% in the third quarter of 2024, an increase of 20 basis points compared to the third quarter last year. Adjusted G&A as a percentage of revenue also improved from 67.1% in the third quarter of 2023 to 39.8% in Q3 of this year, demonstrating the operating leverage effect. Adjusted EBITDA was negative $8.9 million in the third quarter of 2024, a $5.4 million improvement versus negative $14.2 million in the third quarter of 2023. Cash, cash equivalents and restricted cash was $153.4 million as of September 30, 2024. We generated cash from operations of $12.1 million in the third quarter of 2024, which is the second consecutive quarter that we generated positive cash from operations. This is due primarily to the net cash received from the sale of 30C income tax credits, combined with the timing of other working capital changes. Capital expenditures were $25.8 million in the third quarter of 2024. Capital expenditures net of capital offsets was $5.2 million in Q3 of 2024. We received $10 million in net proceeds from the sale of our 30C income tax credits for 2023 vintage stalls in the quarter.
+
+Given the timing, we estimate an additional $1 million in transaction costs associated with the sale will be recognized in the fourth quarter.
+
+Now turning to our 2024 guidance. EVgo is increasing the midpoint of our 2024 revenue guidance by $2.5 million due to continued strength in our charging network revenues and we expect full year 2024 revenue to be in the range of $250 million to $265 million.
+
+We expect to see quarterly seasonal growth in charging network revenue in the fourth quarter. eXtend revenue, which is currently primarily comprised of construction revenue is expected to decrease in the fourth quarter compared to the third quarter due to timing of construction projects.
+
+We are increasing the midpoint of our 2024 adjusted EBITDA guidance by $4 million and we expect full year 2024 adjusted EBITDA to be in the range of negative $38 million to $32 million. The increase in our adjusted EBITDA midpoint reflects continued improvements in charging network gross margins resulting from increased revenues and lower energy costs.
+
+We expect to continue to make increased investments in the joint development of our next-generation architecture as well as our financial systems to support project financing in the fourth quarter.
+
+We expect full year capital expenditures net of capital offsets to be in the $50 million to $65 million range with the main use of CapEx to add over 800 new EVgo owned stalls this year. We normally incur CapEx in advance of the vintage or operational year.
+
+However, we made the decision to slow our 2025 vintage spend in 2024 as we await final approval of the DOE loan.
+
+As a result, of our efforts over the past few years to build our growth engine, we have successfully decreased lead times between mobilization and construction completion to enable us to incur less CapEx in advance of the vintage year than we have historically done. We remain confident in our ability to accelerate our rate of stall growth as planned if we are successful in securing the DOE loan. We remain fiscally prudent and only build stalls that meet our return hurdles.
+
+We are confident as ever that EVgo is on a clear path to an important inflection point in our business, namely, hitting adjusted EBITDA breakeven for the full year of 2025. This is based on the expectation that EV VIO will continue to grow and that EVgo will continue to expand its network and realize operational efficiencies. We look forward to continuing to share our progress on future calls. Operator, we can turn the call over to questions.
+
+Operator
+[Operator Instructions] Our first question comes from the line of Bill Peterson from JPMorgan.
+
+William Peterson
+Thanks for all the details and nice job on the quarterly execution. I have some questions on the DOE loan process to the extent that you can answer them.
+
+First, can you touch a bit on the closing conditions for the loan? How quickly you're able to satisfy them? I guess, are there any sort of "long pole in the tent"? I mean, have you satisfied or addressed all the requirements that are in your control? Is the ball on the DOE side? I mean, basically asking if the time of the loan extends past January, how much risk do you perceive in order to finalize the loan?
+
+Badar Khan
+Yes, thanks for the question.
+
+We are, I mean, as confident as ever in our ability to close the loan, as I said, in the prepared remarks. We don't need to issue any equity to be able to close the loan. We don't have a complex single large site. The conditions are at this point largely within our control, and we really aren't expecting a lengthy close at all. It is DOE policy to not comment on the timing or the loan details. I guess all I can say is, as I said just now, we're not really expecting a lengthy close.
+
+And so we feel very confident about our ability to close the loan.
+
+William Peterson
+Okay. And then I have some questions on the near-term sort of growth drivers, especially in the context that you've seen in sort of quarter-on-quarter deceleration in the third quarter, and the implied guidance also would indicate some deceleration or at least flat sort of quarter-on-quarter growth.
+
+So can you speak to the buckets contributing to the demand growth? Should we assume fairly modest charging growth on a sequential basis with eXtend being the swing factor? And then, I guess, as an early look into next year, how should we think about eXtend, including against the context if the remaining funds of the NEVI program were to go away or reallocated?
+
+Badar Khan
+Yes. I mean, we are seeing strong growth in demand. We've seen throughput growth, as we just talked about on the call, quite significantly. And in the fourth quarter, we expect to see continued growth in throughput actually from Q3 to Q4. Well, maybe I'll ask Paul, if he wants to share any perspectives around the range of guidance for the full year.
+
+For eXtend, we put about 290 stalls in operation. From the material, you can see that there's about 330 stalls in construction. And with respect to 2025, we haven't provided guidance yet or we'll do that for 2025 on our Q4 call. I guess what I would say is that, as I said in my remarks, NEVI is a program that received bipartisan support. States that elected, that voted for President-elect Trump have been significantly faster in deploying NEVI awards than other states.
+
+And so, we don't really expect to see much of an impact, frankly, on NEVI either. Paul, anything you want to share in terms of...?
+
+Paul Dobson
+Well, I would just add, Bill, just we saw our guidance, and we raised our guidance for both revenue and adjusted EBITDA.
+
+So, when you look at that, and we think about what risks do we see as we sit here sort of mid-November for the rest of the year, clearly, throughput could be a risk, but we don't see that as being a very big risk at this point. And then for adjusted EBITDA, I think the swing factor would be energy costs where they're going to be. But, again, as we sit here mid-November, there could be some volatility -- a little bit of volatility there. We've had higher summer rates in Q3.
+
+We expect that to come down in Q4, and we're starting to see that. We -- in our other costs, our G&A costs, such as project costs getting ready for the DOE loan, there could be a little bit of increase in our G&A costs, but still very, very well controlled.
+
+So, we see the momentum that we've experienced over the last couple quarters continuing into the fourth quarter. And I think that's reflected in our guidance.
+
+William Peterson
+And, again, nice job on the quarterly execution.
+
+Badar Khan
+Operator, you can go to the next question.
+
+Operator
+Our next question comes from the line of Andres Sheppard from Cantor Fitzgerald.
+
+Andres Sheppard-Slinger
+Can you hear me okay?
+
+Badar Khan
+Andres, we can hear you just fine. Yes.
+
+Andres Sheppard-Slinger
+Okay, wonderful. And I echo Bill's thoughts. Congratulations on the quarter. Lots of great progress. I wanted to maybe touch on the utilization rate continues to improve roughly 22% on average across all stalls, which is fantastic. Again, some of them even greater than 30%.
+
+Just curious, I mean, this might be a tough question, but do we have a sense of kind of what is a industry average utilization rate across fast charging in the United States? Just trying to get a sense of how significantly better your rate is relative to maybe the industry or some of well-known peers?
+
+Badar Khan
+Yes, Andres, I mean, I think that it's one of the things that we -- I think, we've done quite a lot over the course of this year is we're very transparent about a number of measures from performance through to customer experience. Obviously, this is a key performance indicator.
+
+And so, I don't know if that's there's the same level of transparency elsewhere in the industry.
+
+And so there really isn't that I have found an industry-wide average that represents all DC fast operators. But I can tell you is, what we've been sharing over the course of many of these earnings calls, which is that we have really invested in our site selection processes. I did share in our last quarterly call that the throughput per stall for the 2023 vintage stalls in Q2 of this year was better than '21 vintage, better than '22 vintage, better than 2020 vintage.
+
+In fact, it was 75% better than 2020 vintage.
+
+So what that's telling you is that our algorithms are getting better. We're deploying stalls in locations where we're getting better performance than what we were in the past.
+
+I think that this is an area of strength that we have relative to the 40 so other operators of DC fast charging stalls. We deploy stalls, as you know, in urban and suburban, high density, high traffic locations, close to where drivers live, work, and run their errands.
+
+So I would expect to see that perhaps our utilization may be higher than many of our other operators in this space. And one last thing I'd say, Andres is that our long-term target that you can see in our unit economics chart is 23% in 3 to 5 years. We started the year at 19%. We're now at 22%.
+
+I think that it's clearly upon us to update that 23% number because that's -- I don't think it's going to take 3 to 5 years to get an extra 1%.
+
+Andres Sheppard-Slinger
+Wonderful. Yes, Badar. That's super helpful. I appreciate all that context. I agree that maybe it is a tough number to identify for the industry-wide, but yours certainly would seem to be kind of well above the medium there. Maybe as a follow-up, more of a strategy question, but I'm curious, as you're seeing some OEMs kind of transition or trying to transition into more autonomy across its vehicles. How are you thinking about that in terms of a charging strategy? Or is that something that you potentially will look to implement in the future to try to account for these autonomous or robotaxis things of sorts? Is that something you're kind of thinking about and just curious any thoughts there?
+
+Badar Khan
+Yes, very much so. We -- as I've said on prior calls, I think that autonomous vehicles, along with rideshare electrification and just more affordable vehicles, and specifically for us cable standardization, represent very significant opportunities for growth simply because they're going to increase the share of DC fast versus L2 charging.
+
+I think that autonomous vehicles will be electric. They are electric that are in place today, and they'll be charging in fast locations because the owners of these assets are going to be looking to maximize uptime and not waste time at a slow charging location. We do have -- Andres, we do have autonomous vehicle clients where we're building dedicated hubs for much larger hubs for AV clients and expect over the course of the next year or so, I expect we'll talk more about that type of business that we're doing, especially since I think it's set to continue to grow even faster than it has done so far.
+
+Andres Sheppard-Slinger
+Wonderful. Very helpful. Again, congrats on the quarter. I'll pass it on.
+
+Operator
+Our next question comes from the line of Craig Irwin from ROTH Capital.
+
+Craig Irwin
+My first question really is about the opportunity with Tesla, right? So nobody can argue your growth metrics are impressive. If we choose throughputs or sales or utilization, everything's going in the right direction. But in the longer-term, right, you're growing more than twice the rate of the rate of EV sales right now. And the opportunity to serve the Tesla fleet is something that potentially unlocks a much longer runway for this impressive outsized growth versus the overall growth of sort of absolute units in the EV market. Can you maybe unpack for us the non-Tesla sales in the quarter? Was there anything constraining that? I assume there's the NEVI charger connectors is a large part of it. But what do you see as a potential opportunity there to serve Tesla customers, particularly in areas of the country that are congested?
+
+Badar Khan
+Craig, I think that it's a great question. When Tesla worked with other OEMs to ultimately standardize the cable and the port in all vehicles, we had a lot of questions around what that might -- how that might impact our business.
+
+Of course, many months after -- many, many months after that, we're seeing tremendous growth in our own throughput. Where I expect to see, to your question, even more growth is the ability for our network to serve Tesla vehicles. We, a very small proportion of our network throughput today, are Tesla drivers charging in our network. Once we have the NACS connector, the J3400 standard finalized, completed, properly tested, which we're hoping for the end of the year. But of course, we're going to make sure that it's done -- the testing is done properly. I am -- and then we start rolling it out across our network for new stalls and for retrofit. I expect to be able to attract roughly 60% of EV VIO that is not primarily charging in our network, to start charging in our network. And that's because, as I said, on prior calls, our network is more of an urban network. It's closer to where people live, work, they run their errands versus a highway network, which is a large part of what Tesla is.
+
+I think we've demonstrated our ability to attract customers.
+
+Our growth of new customers was 38%, 39% versus last year, whereas the growth of new Tesla sales was only 18% year-over-year.
+
+So one of our priorities this year has been building this growth muscle where we've got the right talent and we've got the right people to be able to target and get specific customers on to -- the drivers on to our network as customers.
+
+So we've proven that, and I'm confident that over the course of the next couple of years, we'll be able to target Tesla drivers who aren't using the network once that cable has become standardized.
+
+Craig Irwin
+Understood. That makes complete sense.
+
+So my second question is about the expense burden necessary to serve the expanded opportunity with your DOE funding.
+
+You have added some senior executives and obviously, selected employees in the last year, some of them pretty high profile industry executives. Would you expect to need to add much in the way of executives or employees to increase the execution capacity to serve that the DOE funded opportunity? Or is this something that we can expect pretty significant leverage to the existing infrastructure that you've put together?
+
+Badar Khan
+Yes.
+
+We have, I think that we've got huge upside in terms of our ability to leverage the infrastructure and the team that we have in place. In the near-term, for 2025, we are very focused on meeting the commitments that we've been saying to the market around EBITDA breakeven.
+
+And so we will we're very focused on that. I don't think that we'll be expanding the build schedule that much in 2025.
+
+Over the course of 5 years with the DOE loan, we'll be looking to add 7,500 stores.
+
+So while that's an average of 1,500, it will be a much lower number in 2025 and it will build over the course of those 5 years, a significantly higher number by the fifth year.
+
+So like with everything here, Craig, we're going to be very prudent around how we grow the business for making sure that we're delivering on all the expectations and the commitments that we've made.
+
+We have added a lot of very good, very excellent talent to the team at all levels, at executive levels, the engineering teams, and we expect to leverage that as we grow the business.
+
+Operator
+Our next question comes from the line of Chris Dendrinos from RBC Capital Markets.
+
+Christopher Dendrinos
+Congratulations on a really solid quarter. I guess, maybe starting out here just on the DOE and you mentioned some potential alternative funding options that you're evaluating. Can you just I guess walk us through the strategy there? And is that more of an insurance policy, call it, in the event that a Republican administration looks to repeal that loan? Or is this in addition to support build out that maybe doesn't qualify or falls outside the DOE stipulations?
+
+Badar Khan
+Yes, Chris. Look, we've been talking about pursuing non-dilutive sources of financing for the better part of the year. And I think the more that we've been transparent about both our performance and unit economics over the course of this year, the conversations have grown and there's more interest on the other side of the table.
+
+I think, it's fair to say that, at the beginning of the year, as we were looking at these non-dilutive financing options, they were as alternatives to what we may or may not get from the U.S. Government.
+
+I think at this point, we're really looking at these as options to expand our financing on top of the loan that we're hoping to close with the DOE to finance loans, to finance stalls that might not otherwise be covered by the Department of Energy. And I think again, as I said before, I think the transparency that we've had with our unit economics has resulted in some very productive conversations. But our priority at this point, Chris, is to get the DOE loan closed. That's our #1 priority here in terms of financing, which as I said in response to Bill's question, we're not expecting a lengthy close. These issues are at this point now largely within our control.
+
+Christopher Dendrinos
+Got it. And I guess maybe shifting gears here, just on the Delta Electronics partnership and you mentioned you're targeting a 30% improvement in CapEx per stall maybe beginning the second half of '26. Can you provide a bit more detail on sort of what specifically you are -- I guess targeting for that design that allows for that level of CapEx improvement?
+
+Badar Khan
+Yes. Chris, again, this is just another one of the areas where we're just executing what we've been saying all year, where all year I've been talking about this effort, which and again, it's an effort that we have been resourcing for a good part of the year at this point. The MOU with Delta Electronics is just the next step in that journey. And the next step after that actually will be having our first prototype within the next year. But in terms of specifically, what we're doing with this effort is bringing together our experience of serving over 1 million customers, our understanding of their pain points, together with a global power electronics leader who, in our space because of the lack of vertical integration almost none of the hardware suppliers actually have that real world customer experience.
+
+So we're putting those 2 things together to jointly design, so they will build, to jointly design a new site, new layout, different power sharing configuration, different dispenser design that takes into account both the best customer experience and the lowest cost. And I expect to see savings in terms of the equipment, in terms of the construction.
+
+One of the things that is important in this process is continuing with prefabricated skids, of which we're expecting now 40% of our deployments next year to be benefiting from, which saves on both timeline and construction expense.
+
+So it's a whole host of these things. We've been estimating 30% CapEx savings on a per store basis. I've been talking about that all year and that's what we expect today still.
+
+Operator
+Our next question comes from the line of Chris Pierce from Needham. Hey, good morning, everyone.
+
+Christopher Pierce
+I just wanted to get a sense of when we talk about high utilization sites and we talk about rideshare drivers, then we talk about the DOE loan and the sites that you're going to build in and the sites that you are building in now, which are a little more lower income areas where there's less EV penetration. What's the right way to think about these 2 coming together? Is it that you expect the high utilization sites to keep growing and that will be able to support low -- early utilization in the newer sites that you launch? Or do I have that wrong and EV penetration in your mind will drive higher penetration sooner at these potentially less juicy sites? I just want to make sure I have the pieces right in my head as far as how you think about it.
+
+Badar Khan
+Yes. Chris, look, we -- the sites that we'll be building through with the DOE loan are sites that meet the administration's Justice40 Initiative, which are areas that are overburdened by the environmental impacts of -- overburdened with environmental impacts, negative environmental impacts. Today, we are 40% of -- over 50% of the stores that we're building today are in rural and low income communities and then they're eligible for 30C funding. There's actually quite a lot of overlap, significant overlap between those 2 things.
+
+And so we're really not expecting any difference, any material difference at all in terms of what we're building today and what we will continue to build as a result of the DOE loan.
+
+In fact, I expect no change in our view of economics, expect the improvements that we've been talking about to continue. We do need to update the long term utilization number.
+
+As I said just earlier, 23% doesn't seem to make any sense anymore given that we're at 22% today on utilization. What I do expect to see is even more leverage on the fixed costs, both within gross margin and SG&A, just because we're going to have a much higher store count. And that will be, of course, beneficial have a beneficial impact to our unit economics. But I think -- I hope I'm answering your question. We don't really see much more.
+
+Christopher Pierce
+Yes. I just -- yes, that's very helpful. At the high utilization sites that you have now, your highest utilization sites, we've got a larger propensity of rideshare drivers. Is there still are we in the sixth inning, seventh inning? I mean, I know these sites are never going to get to 100% utilization, but what's the utilization what is the outlook for utilization growth at your top performing sites still right now?
+
+Badar Khan
+Well, you can see that our top performing sites are growing.
+
+In terms of utilization and throughput per store, I mean, the chart #17 shows throughput per stores for our top 15% sites growing significantly.
+
+If you look at that same number sequentially as opposed to year-over-year, you can see significant improvement. And throughput, as you know, is a product of utilization and charge rate.
+
+And so we see that progressing.
+
+I think the important thing here is we see the entire network moving to the right, which is data that we've been supplying every quarter, not just the top performing sites.
+
+Operator
+[Operator Instructions] Our next question comes from the line of William Grippin from UBS.
+
+William Grippin
+Just was wondering if you could elaborate first on the -- your expectations for 30C monetization going forward now that you've done this 2023 deal. Should we expect these to be maybe more regular semiannual or are you still planning on just annual monetization going forward?
+
+Badar Khan
+Yes, we're looking at that -- well, we obviously had our first monetization this year with tax filing deadline.
+
+And so we're looking at the right strategy that allows us to maximize the monetization for the company. Broadly, kind of just taking a step back from that, we're looking we're expecting to see continued monetization at or around the levels that we've been getting that we received for the first year that we did this year, so for the 2024 portfolio in 2025. And whether it's 1 sale or 2 sales, we're looking at the right strategy that maximizes the return for us.
+
+William Grippin
+Makes sense. And just going back to one of your comments in the prepared remarks, I think you had said 56% of throughput came from rideshare and OEM subscription. Are you able to bifurcate that more granularly between rideshare and OEM? And then within the subscriptions, are you seeing growth in partnerships or expansion of programs there?
+
+Badar Khan
+Yes.
+
+So you can actually look at -- I think we've slowed our revenue for commercial specifically, which is largely rideshare and that's about 24% in terms of input, I'm sorry, I should say, sorry, not revenue.
+
+And so that whole group of 56% is both rideshare is a 3 rideshare subscription customers and customers on the OEM charging credits. It's been in that 50% to sort of mid-50%s for the last 2 or 3 quarters now.
+
+I think. Well, you can go back to our earnings materials. It's a slide in the chart.
+
+And so that's we like that load because it's high frequency. It's what I would call our most predictable steady kind of -- I'm an energy guy, so I see it as base load demand. And I think it's great for underwriting our business.
+
+Operator
+That concludes our Q&A session for today. I'd now like to turn the call over back to Badar Khan for final closing comments.
+
+Badar Khan
+Great. Well, thank you, everyone. We've had yet another record quarter, and we've raised the midpoint of our guidance again, and are clearly on the path to adjusted EBITDA breakeven next year.
+
+We continue to benefit from just a whole bunch of tailwinds that are benefiting owner operators, And with EVgo's scale over the dozens of smaller operators.
+
+I think hopefully you're seeing that we're really starting to cement our competitive advantage, especially in terms of delivering a best-in-class customer experience. We remain as confident as ever closing the DOE loan, which will accelerate our growth. And if and when we close the loan, we will host a webinar to provide you with more details. Till then, thanks very much.
+
+Operator
+Thank you. That concludes our conference call for today.
+
+You may now disconnect.

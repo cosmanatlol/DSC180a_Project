@@ -1,0 +1,23 @@
+name: 180a-env
+channels:
+  - defaults
+  - conda-forge
+  - piiq
+dependencies:
+  - python=3.11
+  - matplotlib
+  - numpy=1.26.4
+  - pandas
+  - ipykernel
+  - cvxpy
+  - scikit-learn
+  - seaborn
+  - statsmodels
+  - yfinance=0.2.44
+  - pandas-ta
+  - langchain
+  - xgboost
+  - pyportfolioopt
+  - mistralai
+  - langchain-mistralai
+prefix: C:\Users\manat\anaconda3\envs\180a-env

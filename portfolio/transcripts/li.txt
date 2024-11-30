@@ -1,0 +1,261 @@
+Operator
+
+Hello, ladies and gentlemen. Thank you for standing by for Li Auto's third-quarter 2024 earnings conference call. At this time, all participants are in listen-only mode. Today's conference call is being recorded.
+
+I will now turn the call over to your host Ms. Janet Chang, investor relations director of Li Auto. Please go ahead, Janet.
+
+Janet Chang -- Director, Investor Relations
+
+Thank you, operator. Good evening and good morning, everyone. Welcome to Li Auto's third-quarter 2024 earnings conference Call. The company's financial and operating results were published in a press release earlier today and were posted on the company's IR website.
+
+On today's call, we will have our chairman and CEO, Mr. Xiang Li; and our CFO, Mr. Johnny Tie Li, begin with prepared remarks. Our president, Mr.
+
+Donghui Ma; and senior vice president, Mr. James Liangjun Zou, will join for the Q&A discussions. Before we continue, please be reminded that today's discussion will contain forward-looking statements made under the safe harbor provisions of the U.S. Private Securities Litigation Reform Act of 1995.
+
+Forward-looking statements involve inherent risks and uncertainties. As such, the company's actual results may be materially different from the views expressed to date. Further information regarding risks and uncertainties is included in certain company's filings with the U.S. Securities and Exchange Commission and the Stock Exchange of Hong Kong Limited.
+
+The company does not assume any obligation to update any forward-looking statements except as required under applicable law. Please also note that Li Auto's earnings press release and this conference call include discussions of unaudited U.S. GAAP financial information, as well as unaudited non-GAAP financial measures. Please refer to Li Auto's disclosure documents on the IR section of our website, which contain a reconciliation of the unaudited non-GAAP measures to comparable U.S.
+
+GAAP measures. Our CEO will start his remarks in Chinese. There will be English translation after he finishes all his remarks. With that, I will now turn the call over to our CEO, Mr.
+
+Xiang Li. Please go ahead.
+
+Xiang Li -- Founder, Chairman, and Chief Executive Officer
+
+[Foreign language] Hello, everyone. This is Li Xiang, and thank you for joining today's earnings conference call. In the third quarter, China's NEV penetration rate has reached 50.3%, marking the first time NEV overtook ICE vehicles in terms of new vehicle registration. The market share of leading brands continued to expand, especially in the RMB 200,000 and over NEV market, where the top three brands combined account for over 50% market share in Q3.
+
+Li Auto delivered over 152,000 vehicles in Q3, up 45.4% year over year and driving our segment market share to 17.3% in Q3, compared to 14.4% in Q2. Our historically high quarterly deliveries and market share solidified our market leadership in the segment. In addition, our sales in China's overall RMB 200,000-and- above PEV market surpassed multiple established European premium brands for the very first time, making us the top three brands among all brands and No. 1 across all Chinese brands in this segment.
+
+With the multitude of players entering the EREV market, Li L series sustained its strong sales performance, partly attributable to our ongoing innovation and high-quality monthly OTA updates encompassing improvements in autonomous driving, smart cockpit, and electric drive. In Q3, the average monthly sales of Li L series exceeded 50,000 units. It is worth noting that AD Max take rate continues to grow, owing to our investments in R&D that have led to rapid iterations and breakthroughs in our vehicles' autonomous driving capabilities. The deployment not only reflects user recognition of our technologies, but also improves our overall product mix.
+
+In the third quarter, we continued to upgrade our sales and servicing network. As of the end of September, we had 479 retail stores located in 145 cities as well as 436 service centers and Li Auto authorized body and paint shops operating in 221 cities in China. Among these, 165 sales centers are located in major auto parks and premium commercial properties with nine to 11 display spots per store, driving our total display spots to over 3,000. This supports the sales growth of our existing models while also prepares us for the launch of BEV SUVs.
+
+On the super charging network, as of now, we have 1,000 super charging stations with 4,888 charging stalls operating in 175 cities across 31 provinces nationwide. Notably, our network includes 582 Li Auto super charging stations along highways, the largest network of its kind in China. In addition, we continue to strengthen our collaboration with premium partners in the industry. On October 12th, we officially formed strategic cooperation with Sinopec on charging station construction and platform interconnectivity.
+
+As of now, our Li selection super charging network includes 1,200 high-power, highly stable third-party charging stations. We remain on track in terms of our BEV strategy. Charging efficiency and reliability remain top concerns for BEV customers. We will continue to accelerate the deployment of our charging network while actively exploring new technologies, aiming to establish an industry-leading charging network covering both highways and urban areas by next year.
+
+The initiative will prepare us for the launch of our BEV electric SUVs and ensure that we continue to provide convenient and reliable charging experience for a growing number of users. Moving on to autonomous driving. Since its release in July, our proprietary full and -- full spec end-to-end and vision-language model autonomous driving solution has been iterating at a rate of two to three versions per week. In just three months, the amount of training data per model went from 1 million video clips to 4 million, while the average mileage per intervention increased nearly 2.5 times.
+
+Our new System 1, System 2 autonomous driving solutions, significantly enhanced user experience with its robust model and deep comprehension of the traffic environment. On October 23rd, we began rolling out OTA 6.4 for Li Mega and Li L series. The update includes our new autonomous driving solution, which is now fully deployed on over 320,000 Li AD Max vehicles, only three months after we rolled out our nationwide map-less NOA in July. The OTA 6.4 update also features a more lively [Inaudible] Task Master 2.0, powered by large language models and improved charging experience among many other improvements.
+
+Our industry-leading amount of real-world training data is a key competitive advantage and powers rapid innovations in autonomous driving. As of October 30th, our total real-world training mileage has reached 2.6 billion kilometers, with NOA mileage hitting 1.39 billion kilometers, and automated parking has been activated 60 million times. Additionally, our active safety features have prevented 3.45 million potential accidents, including 516 severe accidents. In Q3 2024, our total revenues reached a record high of RMB 42.9 billion, up 23.6% year over year.
+
+Our gross margin expanded to 21.5%, and non-GAAP income from operations hit an all-time high of RMB 4.4 billion, and operating cash flow reached RMB 11 billion. The solid financial performance is driven by our improving product mix, economies of scale, and operating efficiency. In October, we reached an important milestone of 1 million cumulative vehicle deliveries in just 58 months, the first among emerging new energy vehicle automotive brands in China. The milestone marked a new beginning.
+
+Looking forward, we will continue to innovate through R&D and develop outstanding products and services while maintaining our production and delivery efficiency as an industry leader. In Q4 of this year, we expect vehicle deliveries to be between 160,000 to 170,000 units with full-year deliveries falling between 502,000 and 512,000 units. Last but not least, I would like to share the highlights in our ESG performance. In September, we received MSCI's highest AAA ESG rating for the second consecutive year, a testament to our outstanding performance in corporate governance, product quality and safety and clean-energy technology.
+
+We will continue to explore cutting-edge low-carbon technologies and implement green operational management practices proactively fulfilling our social responsibilities. I will now turn it over to our CFO, Johnny, to walk you through our financial performance.
+
+Johnny Tie Li -- Chief Financial Officer
+
+Thank you, Xiang. Hello, everyone. I will now walk you through some of our 2024 third-quarter financials. Due to time constraints, I will address financial highlights here and encourage you to refer to our earnings press release for further details.
+
+Total revenues in the third quarter were RMB 42.9 billion or $6.1 billion, up 23.6% year over year and 35.3% quarter over quarter. This included RMB 41.3 billion or $5.9 billion from vehicle sales, up 22.9% year over year and 36.3% quarter over quarter. The year-over-year and sequential increase was primarily attributable to the increase in vehicle deliveries, partially offset by the lower average selling price mainly due to the different product mix. Cost of sales in the third quarter was RMB 33.6 billion or $4.8 billion, up 24.5% year over year and 32% quarter over quarter.
+
+Gross profit in the third quarter was RMB 9.2 billion or $1.3 billion, up 20.7% year over year and 49.3% quarter over quarter. Vehicle margin in the third quarter was 20.9%, relatively stable compared with 21.2% in the same period last year, and improved from 18.7% in the last quarter. The sequential increase was mainly due to the cost reduction, partially offset by the lower average selling price mainly due to the different product mix. Gross margin in the third quarter was 21.5% versus 22% in the same period last year and 19.5% in the prior quarter.
+
+Operating expenses in the third quarter were RMB 5.8 billion or $825.4 million, up 9.2% year over year and 1.5% quarter over quarter. R&D expenses in the third quarter were RMB 2.6 billion or $368.6 million, down 8.2% year over year and 14.6% quarter over quarter. The year-over-year and sequential decrease was primarily due to the decrease design and development costs for new products and technologies and decreased employee compensation. SG&A expenses in the third quarter were RMB 3.4 billion or $478.7 million, up 32.1% year over year and 19.3% quarter over quarter.
+
+The year-over-year and the sequential increase was primarily due to the increased employee compensation associated with the recognition of share-based compensation expenses regarding the CEO's performance-based awards in the third quarter of this year as the achievement of the related performance condition was deemed probable. Income from operations in the third quarter was RMB 3.4 billion or $489.2 million, up 46.7% year over year and 633.4% quarter over quarter. Operating margin in the third quarter was 8%, improved from 6.7 in the same period last year and 1.2% in the prior quarter. Net income in the third quarter was RMB 2.8 billion or $401.9 million.
+
+up 0.3% year over year and 156.2% quarter over quarter. Diluted net earnings per ADS attributable to ordinary shareholders was RMB 2.66 or $0.38 in the third quarter versus RMB 2.67 in the same period last year and RMB 1.05 in the prior quarter. And now, turning to our balance sheet and cash flow. Our cash position remains strong and stood at RMB 106.5 billion or $15.2 billion as of September 30th, 2024.
+
+Net cash provided by operating activities in the third quarter was RMB 11 billion or $1.6 billion, versus net cash provided by operating activities of RMB 14.5 billion in the same period last year and net cash used in operating activities of RMB 429.4 million in the prior quarter. Free cash flow was RMB 9.1 billion or $1.3 billion in the third quarter,versus RMB 13.2 billion in the same period last year and negative RMB 1.9 billion in the prior quarter. And now for our business outlook. For the fourth quarter of 2024, the company expects the deliveries to be between 160,000 and 170,000 vehicles, representing a year-over-year increase of 21.4% to 29%.
+
+The company also expects fourth-quarter total revenues to be between RMB 43.2 billion and RMB 45.9 billion or $6.2 billion and $6.5 billion, representing a year-over-year increase of 3.5% to 10%. This business outlook reflects the company's current and preliminary view on its business situation and market conditions, which is subject to change. That concludes our prepared remarks. I will now turn the call over to the operator to start our Q&A session.
+
+Thank you.
+
+Questions & Answers:
+
+Operator
+
+Thank you. [Operator instructions] For the benefit of all participants on today's call, please limit yourself to two questions, and if you have additional questions, you can reenter the queue. If you are a mandarin speaker, please ask your questions in Chinese first then follow with English translation. Your first question comes from Tim Hsiao with Morgan Stanley.
+
+Tim Hsiao -- Morgan Stanley -- Analyst
+
+[Foreign language] Thanks for taking my question. So, my first question is about the potential -- growth potential of EREV. The full-year target of 502,000 to 512,000 units implies the average monthly sales of Li L series could exceed 53,000 in fourth quarter. So, look into next year, how much upside do we think the L series would still have? If there is ample upside, where would the opportunities be emerging from? Is it going to be new models like L5 facelift x4 or further penetration into the lower-tier cities in China.
+
+So, that's my first question.
+
+James Liangjun Zou -- Senior Vice President, Sales and Service
+
+OK, Tim, this is James. I will take your first question. And overall, we hope our sales growth next year will be twice the growth rate of renminbi 200,000 and higher annual market. Thank you.
+
+Tim Hsiao -- Morgan Stanley -- Analyst
+
+OK. [Foreign language] My second question is about the autonomous driving. So, in September, Li Auto launched the beta version of point-to-point or similar smart driving with just one click. So, when will such function be officially deployed in full scale.
+
+And in addition, is there any chance that Li Auto will launch its a city NOA function on the new Pro version with hardware spec upgrade next year? Thank you.
+
+Xiang Li -- Founder, Chairman, and Chief Executive Officer
+
+[Foreign language] In the past ten months, we have went through several major iterations in our autonomous driving features. We went from reducing reliance on maps to map-less and to end-to-end which -- which you've seen today. And in the meantime, people's recognition and expectations for NOA have kept increasing. And in terms of parking space -- to parking space at one click, our plan is to launch it to all of you AD Max users by the end of December of this year.
+
+And along with this launch, we will also be releasing the feature to pass all ETC toll stations automatically, which relies on our VLM model to recognize ETC toll stations so that our users can drive from highway to urban roads or to urban roads to highways through ETC toll stations without activating NOA, which provides a more fluid user experience. And in terms of whether our city NOA will be released on Pro models and because city NOA relies on stronger perception and a larger amount of computing power, the current city NOA features, unfortunately, won't be provided on our Pro models. As for specifics of future models and information, please stay tuned to our product launch events in the future. Thank you.
+
+Operator
+
+Your next question comes from Ben Wang with Deutsche Bank.
+
+Ben Wang -- Deutsche Bank -- Analyst
+
+[Foreign language] My first question is about the new upcoming pure EV products. And what's the timing for the first product, and what's the pricing range to be? And what's your expectation for the monthly sales volume because some of the local media reports, you actually will have L6 in the middle of 2025. Can you confirm that? Thank you.
+
+Xiang Li -- Founder, Chairman, and Chief Executive Officer
+
+[Foreign language] First of all, as for exact information about our launch plan, I will be releasing this information at the appropriate time in a formal product launch event because, for automotive products, confidentiality is quite important. And overall, we're still very confident about our BEV products overall. And if you've seen with our L series, our EV models, they have performed very strongly in the high-end new energy vehicle market. And it is also our goal to make our BEV SUVs Tier 1 players in the high-end BEV market.
+
+Ben Wang -- Deutsche Bank -- Analyst
+
+[Foreign language] My question is about the share based compensation for the CEO. We know that previous announcement that more than 0.5 million units in the past 12 months, you can get [Inaudible] CEO stock options. Can I know how much expenses booking in the third quarter and how much are going to be in the number four quarter this year? Thank you.
+
+Johnny Tie Li -- Chief Financial Officer
+
+Hi. This is Johnny. Regarding the CEO share-based compensation, this -- as of September 30th, the company expects the Q4 -- the fourth-quarter delivery plus the delivery in the first three quarters will probably meet the CEO's performance required for the first batch of share-based compensation awards, which means the total delivery in the trailing 12 months first reached over 500,000. So, as a result, we accrue -- we recognized the share-based compensation expenses in the third quarter of RMB 593 million.
+
+And there will be an additional RMB 42 million in the fourth quarter. And every batch of the reward, which means the net 500,000 milestone, the expense will be the same as each batch. Thank you.
+
+Operator
+
+Your next question comes from Tina Hou with Goldman Sachs.
+
+Tina Hou -- Goldman Sachs -- Analyst
+
+[Foreign language] So, my first question is regarding our sales policy strategy into the fourth quarter of the year. And then also in relation to that, our fourth-quarter volume guidance seems to be quite conservative [Inaudible] incremental volume in 4Q versus 3Q compared to last year. So, wondering how we're thinking about the volume and the sales policy?
+
+James Liangjun Zou -- Senior Vice President, Sales and Service
+
+OK. Tina, this is James. I will take your first question. First of all, against the competition, sales of Li L series remain strong, mainly due to the strengthening momentum of our brand recognition with over 1 million deliveries and the rapid breakthrough of our autonomous driving capabilities.
+
+We are very confident about our sales in the first quarter. The competition has been intense since the beginning of this year against such tough competition. Our market share has been continuously increasing. In the third quarter, our market share in the renminbi 200,000-and-above NEV market reached 17.3%, a record high year to date.
+
+Meanwhile, since L6 launch, its monthly deliveries have exceeded 25,000 units with cumulative deliveries exceeding 139,000. Li L6 is the best-selling model among the new vehicles released this year. As to sales, we initiated a new round of change in the second half this year to give more operating autonomy to each region. The person in charge in each province will be responsible for overall operations, not just the sales as in the past.
+
+With operating autonomy, each province can run region-specific sales and marketing activities according to the local market conditions, further increasing brand awareness and market share. If we look at this region by region, the competition landscape varies for different provinces. We will formulate region-specific sales policies according to the local conditions. Thank you.
+
+Tina Hou -- Goldman Sachs -- Analyst
+
+[Foreign language] My second question is regarding our sales network expansion plan. So, what will be our target store number by end 2024 and also by end 2025? Thank you.
+
+James Liangjun Zou -- Senior Vice President, Sales and Service
+
+OK. So, we expect our retail stores to reach about 500 at the end of this year. Our key channel adjustments we have been implementing this year is to gradually replace lower-performing shopping mall stores in our network with sales center in leading auto parks. As a result, the proportion of sales centers in auto parks will increase to over 40% at the end of this year from 24% at the end of 2023.
+
+Our total display spots in China is expected to reach over 3,600 at the end of 2024 from over 2,600 at the end of 2023. Meanwhile, we are expanding our coverage in the third-tier cities and some key fourth and fifth-tier cities in terms of sales and servicing networks. As to the store target next year, we will share that after the first-quarter earnings release. Thank you.
+
+Operator
+
+Your next question comes from Jing Chang with CICC.
+
+Janet Chang -- CICC -- Analyst
+
+[Foreign language] So, my first question, as Mr. Liangjun has just mentioned, we have more and more new players to compete with us in the EREV sector. So, looking into our L series has already been released for nearly two years. So, if there are some sectors that we can upgrade our products, so what aspects do we think can be greatly improved?
+
+Xiang Li -- Founder, Chairman, and Chief Executive Officer
+
+[Foreign language] The competition in the automotive industry encompasses technology, product, supply chain, sales, and service. It's a holistic competition. And our EV technology is only a pretty important one among all technologies, but it's definitely not the whole picture. For the Li L series in the next few years, it's still considered, if you were to make an analogy to a human being, it's still in its youth stage.
+
+And after consumers buy our Li Auto vehicles, we will continue to improve our features and experience through OTAs, which improves the value of product that they receive. So, software, hardware, and user experience and products, this integrated experience, Li Auto is still the leader in the industry. And if we look at the next three to five years, I think the biggest variable is going to be autonomous -- artificial intelligence, which includes AI-powered autonomous driving and AI-powered smart assistant. It will create a completely different experience for our users.
+
+And that, I consider, is the beginning of real step change. And one thing I want to remind everyone of is since the beginning of 2024, the most popular and well-received automotive product in the entire world is Li L6, and that's hard results that we've seen in our stores. From launch to today, in a matter of only six months, Li L6 has delivered over 139,000 units and demand is still oversupply, which requires us to expand our production facility during Spring Festival in 2025.
+
+Janet Chang -- CICC -- Analyst
+
+[Foreign language] So, my second question is about overseas market. Do we have a more aggressive strategy to going overseas? And if yes, what regulations we shall based on? Can you give us a brief plan, including which markets we should focus on and how to develop the product dealership? And if we look into 2025 -- whether the overseas market will be a key driver for our sales growth?
+
+James Liangjun Zou -- Senior Vice President, Sales and Service
+
+OK. This is James, and I will answer your question. Absolutely, the overseas market is very important to us. Our overseas strategy is different from other automakers.
+
+As of now, we have established the servicing networks in several countries and regions such as Kazakhstan in the Middle Asia. These servicing stores also helped us expand our market share in the overseas market. Regarding the choice of the overseas region, the Middle East and Central Asia will be our first target regions. Building on this, we will continuously explore and evaluate other markets with high growth potential to expand our global footprint.
+
+However, we are not considering entering Western Europe and North America for the time being. Thank you.
+
+Operator
+
+Your next question comes from Ming-Hsun Lee with BofA.
+
+Ming-Hsun Lee -- Bank of America Merrill Lynch -- Analyst
+
+[Foreign language] So, in October 2024, Li Auto officially -- OTA end-to-end latest AD Max functions. And how does the user experience improve and the feedback so far? And year to date, do you see a significant sales mix change for your AD Max version? [Foreign language]
+
+Xiang Li -- Founder, Chairman, and Chief Executive Officer
+
+[Foreign language] Since we launched what we call end-to-end VLM autonomous driving functionality, we view autonomous driving no longer as a feature city NOA and highway NOA, but more as a capability, the ability to offer supervised autonomous driving. And that marks the change from rule-based algorithms to real AI model-driven algorithms. And for users, the values are pretty significant. I'll give a few examples.
+
+First of all, is MPI, what we call miles per intervention, have increased very steadily as we increase the amount of training -- model parameters and training data. And the increase is actually fits very perfectly into scaling law, which means companies with high-quality training data will have a significant competitive advantage in the future -- in this industry in the future. Second example I want to give is MPA, which is miles per accident, have also been increasing steadily. My estimate is that with this current end-to-end version, the MPA is going to be three to five times compared to human drivers. And lastly, as we increased the big model capability, our active safety features like AEB and AES have also been improving very significantly.
+
+The number of severe accidents have dropped dramatically. And in terms of sales take rate, AD Max takes rate has steadily increased, not only for cars priced over 300,000, but also for Li L6, we have seen a very dramatic increase in AD Max take rate.
+
+Ming-Hsun Lee -- Bank of America Merrill Lynch -- Analyst
+
+[Foreign language] So, what's our plan for the charging station by the end of next year? And what is your current breakdown for your own building charging station and also the charging station run by the third party? And right now, what is the utilization, especially since you have so many charging stations, but your -- the BEV Mega total population is still not high? Does this mean that many other brands use your charging brand? So, your charging station did not impact your gross margin?
+
+James Liangjun Zou -- Senior Vice President, Sales and Service
+
+OK. This is James. I will take your question. So, overall, we plan to establish the industry's largest OEM charging network and have an absolutely -- and before our new BEV models come to market, we expect to have more charging stations than Tesla in key cities for sales.
+
+By the time our new BEV model launches, we target to have more than 2,000 charging stations in operation, which will scale up to 4,000 by the end of 2025 next year. Our super charging station network now covers nine national highways, a total of over 54,000 kilometers, with a coverage ratio of 63% of national highway trunk lines. By the end of 2025, we will build more than 1,200 super charging stations along highways, covering 90% of national highways. And in addition to highway and urban coverage, we will also selectively cover medium and long-distance self-driving route to meet the needs of our users for family travel.
+
+For instance, our Mount Everest super charging station commenced operation in October this year, and we expect to achieve end-to-end coverage to national highway -- National Highway 318 in April next year. And also regarding the cooperative super charging station in the city, so far, we have already built more than 500. And we are expecting by end of next year, we will also have this cooperative super charging station in city more than 3,000. Thank you.
+
+Operator
+
+Your next question comes from Yuqian Ding with HSBC.
+
+Yuqian Ding -- HSBC -- Analyst
+
+[Foreign language] The first question is about the consolidation for the pricing category above 200k. We discussed that at the beginning of the year, is the industry consolidation shaping the way as management expected? How do we take the competition coming from the mass market brands, high-end model, and tech brands all to line up?
+
+Xiang Li -- Founder, Chairman, and Chief Executive Officer
+
+[Foreign language] Today, even before we launched our pure electric SUVs, we have been increasing our market share very steadily every quarter, and it has reached 17.3% in Q3. And for the longest time, no matter who enters the market, the fundamental challenge is the same for everyone. Can we offer products that provide the most value for our target users in their respective price range? That's the key to everything. And our long-term goal is still to -- through our three BEV and REV products together capture over 25% of market share in the NEV market over 200,000 RMB.
+
+Thank you.
+
+Yuqian Ding -- HSBC -- Analyst
+
+[Foreign language] The second question is on the segment and boundary. We noticed there's more model supply among the mid- to large-sized family utility SUV and MPVs. Will the company management see the boundary limit for the current segment? Or will family user market saturated to a certain extent, which are the other segments that the company would identify promising?
+
+Xiang Li -- Founder, Chairman, and Chief Executive Officer
+
+[Foreign language] My view is that we've only started to scratch the surface in terms of family users market, especially if you take into account the power of AI changes that will be powered by AI in terms of autonomous driving and smart cockpit experience, there's going to be so much room for imagination for family users. So, in this regard, we're not in a rush to explore new markets. And the other opportunity is in pure electric or BEV market. If you look at the market of BEV products over 300,000 RMB, there is no product that offers the equivalent or comparable product value to L7, L8, and L9.
+
+So, there's simply no good supply, and we believe that's another big opportunity for us. So whether it's AI or BEV market, we think there's a big opportunities in terms of large SUVs for family users. So, this is something we will continue to explore before we look at other potential markets or niche markets. And an analogy would be we actually have a golden bowl in our hands, and we shouldn't begging with the golden bowl.
+
+Operator
+
+Your next question comes from [Inaudible] with CITIC.
+
+Unknown speaker -- -- Analyst
+
+[Foreign language] My first question is about self-driving. So could you give us some introduction about progress and plans in the field of self-driving? And running that, will the speed of self-driving iteration slowdown in the long term? And will it then potentially lead to a narrowing difference between companies' technology? Thank you.
+
+Xiang Li -- Founder, Chairman, and Chief Executive Officer
+
+[Foreign language] Our current direction is to use -- to iterate on supervised autonomous driving and provide parking-to-parking autonomous driving experience and a completely seamless user experience. In the meantime, we are innovating in terms of human-vehicle interaction when it comes to supervised autonomous driving, and we are currently running through some internal tests. And we will be releasing these to all of our users in the near term. And looking at the long term, we've also -- we've already launched primary research on L4 autonomous driving.
+
+And it builds on top of our current end-to-end VLM model, and we are looking into reinforce learning systems that combine VLA models on the car side and world model on the cloud side. And in the meantime, we will continue to invest in infrastructure and to sustain our leadership in computing power, as well as autonomous driving mileage. And finally, in terms of autonomous driving capability and the gap between different players, I don't think it will narrow. But in fact, I think it will widen over time.
+
+And the reason for that is because, first of all, the requirement for car side and cloud side computing power requirement for training data and resource investment is -- continue to be very large and has trend to increase. And there's also a higher requirement on the algorithm capabilities for autonomous driving. So, overall, I think the gap will widen.
+
+Unknown speaker -- -- Analyst
+
+[Foreign language] So, my second question is about the future cost reduction. As we know that with our increasing sales, so how do we look future cost reduction including procurement, technology, depreciation, and other aspects? Thanks.
+
+Xiang Li -- Founder, Chairman, and Chief Executive Officer
+
+[Foreign language] First, overall, we will look at the full value chain end-to-end to find opportunities to increase efficiency and lower cost, which includes technology innovation, economy scale, and procurement and reducing quality-related waste; and also includes working with our partners to increase their capacity utilization, more efficient logistics, all these require very detailed and very skillful operations. And to give an example in terms of technology innovation, it is a key to driving lower cost over the long term. For example, with our REV system and our electric drive system, if we could integrate them and integrate the central control unit, it will not only make our products more competitive, but also make our costs more competitive. On the supplier end, we are building a joint innovation platform with the suppliers so that our suppliers can get involved much earlier.
+
+We can work together to find better solutions in terms of designs and processes to find opportunities for lowering cost. Also in working with suppliers, our value has always been a win-win philosophy because only this is beneficial to the long-term development of the industry. On the other hand, we will design our parts so that they share the same platform, and we enlarge the volume of each product, which we call hit product. And in terms of supplier strategy, our strategy has been to concentrate the volume on a smaller number of suppliers, increase their capacity utilization and drive costs down over the long term.
+
+And lastly, we will continue to leverage digitization, smart technologies on our factories as well as to empower our partners to reduce waste in the manufacturing process, increase running rate or online rate of the equipment to drive down costs over the long term. Thank you.
+
+Operator
+
+As we are reaching the end of our conference call now, I'd like to turn the call back over to the company for closing remarks. Ms. Janet Chang, please go ahead.
+
+Janet Chang -- Director, Investor Relations
+
+Thank you once again for joining us today. If you have further questions, please feel free to contact Li Auto's investor relations team through the contact information provided on our IR website. This concludes this conference call. You may now disconnect your lines.
