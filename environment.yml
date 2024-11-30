@@ -20,4 +20,3 @@ dependencies:
   - pyportfolioopt
   - mistralai
   - langchain-mistralai
-prefix: C:\Users\manat\anaconda3\envs\180a-env
