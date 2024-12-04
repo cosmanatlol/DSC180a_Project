@@ -1,4 +1,4 @@
 # DSC180a_Project
-This is the accompanying code regarding the analysis of the Electric Vehicle sector. It includes a Jupyter notebook showing preprocessing and all tools used in the analysis.
+This is the accompanying code regarding the analysis of the Electric Vehicle sector. It includes Jupyter notebooks showing preprocessing and all tools used in the analysis.
 ## How To Use
-To create environment download conda and run conda env create -f environment.yml. Then go through the analysis of each tool found as an ipynb in each folder. Chronos and TTM require a seperate pip install which can be found in their respective notebooks.
+To create environment download conda and run "conda env create -f environment.yml". Then go through the analysis of each tool found as an ipynb in each folder. Chronos and TTM require a seperate pip install which can be found in their respective notebooks. Chronos and folder includes time series analysis predictions using each of their respective models and comparing with LTSM and ETS. Technical Analysis folder includes analysis on the data set, explanation of technical indicators, and a sample portfolio simulation using tree boosting methods and the technical indicators. Lastly portfolio includes a sample portfolio using mean and covariance matrix to generate and also evasive detection in earning reports.

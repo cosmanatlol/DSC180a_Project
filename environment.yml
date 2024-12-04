@@ -20,4 +20,5 @@ dependencies:
   - pyportfolioopt
   - mistralai
   - langchain-mistralai
+  - pytorch
 prefix: C:\Users\manat\anaconda3\envs\180a-env
